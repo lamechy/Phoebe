@@ -18,3 +18,5 @@ No bugs so far. Working clean. Encourage all to contact the Phoebe Bots Support 
 You can contact the UX designer via:
 Email: lamechongondi88@gmail.com
 At your service.
+### License
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
