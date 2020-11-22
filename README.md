@@ -8,3 +8,9 @@ Nyakundi Lamech
 **For  the  web app to  work  efficiently  it  greatly depends  on the  search engine  used, preferably Chrome.**
 ## Known Bugs
 No bugs so far. Working clean. Encourage all to contact the Phoebe Bots Support incase of any notable bug.
+## Technologies Used
+* HTML
+* JavaScript
+* CSS (Bootstrap)
+* JQuery
+* Fonts
