@@ -14,3 +14,7 @@ No bugs so far. Working clean. Encourage all to contact the Phoebe Bots Support 
 * CSS (Bootstrap)
 * JQuery
 * Fonts
+## Support and contact details
+You can contact the UX designer via:
+Email: lamechongondi88@gmail.com
+At your service.
