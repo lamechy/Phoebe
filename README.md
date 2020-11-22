@@ -4,3 +4,5 @@
 #### UX Designer:
 Nyakundi Lamech
 **Visit the live page hosted at https://phoebebots.com/phoebe/ to have a glimpse**
+## Dependencies
+**For  the  web app to  work  efficiently  it  greatly depends  on the  search engine  used, preferably Chrome.**
