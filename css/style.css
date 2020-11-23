@@ -606,8 +606,16 @@ Associate Icons
   width:6em; height:auto;
 }
 
-
-
+.our-team{
+  color: #070707;
+  display: inline-block;
+  padding: 15px 20px;
+  font-weight: bold;
+  font-size: large; 
+}
+.our-team:hover{
+  color: #e7b923;
+}
 .primary-gradient, .bg-image2.overlay:before {
   background: #4286f4;
   background: -moz-linear-gradient(left, #4286f4 0%, #42e2f4 100%);
